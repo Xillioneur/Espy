@@ -14,7 +14,7 @@ TODO: Badges
 
 ### Clone
 
-- Clone this repo to your local machine using `[repo-url]`
+- Clone this repo to your local machine using `https://github.com/Xillioneur/Espy.git`
 
 ### Setup
 
@@ -48,7 +48,7 @@ node app.js
 
 ### 1. Fork
 
-- **🍴 Fork and clone this repo using `[repo-link]`**
+- **🍴 Fork and clone this repo using `https://github.com/Xillioneur/Espy.git`**
 
 ### 2. Code
 
@@ -56,7 +56,7 @@ node app.js
 
 ### 3. Submit pull request
 
-- **🔃 Create a new pull request using `[request-link]`.**
+- **🔃 Create a new pull request using `https://github.com/Xillioneur/Espy/compare`.**
 
 ---
 
