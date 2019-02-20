@@ -1,4 +1,5 @@
-[![Espy](https://dummyimage.com/200x200/000000/ff0000.png&text=Espy)](https://espy.unii.design)
+
+<a href="https://espy.unii.design" target="_blank"><img src="https://github.com/Xillioneur/Espy/blob/assets/logo-animated-long.gif" height="200" alt="logo animated"></a>
 
 # Espy
 
@@ -8,7 +9,9 @@
 
 TODO: Badges
 
-[![ESPY](https://dummyimage.com/600x300/ffd900/40008f.png&text=ESPY)]()
+<img src="https://github.com/Xillioneur/Espy/blob/assets/Cover@2x.png" align="center" alt="Think Fast!">
+
+![clipboard](https://github.com/Xillioneur/Espy/blob/assets/espy-clipboard-animated.gif)
 
 ## Installation
 
