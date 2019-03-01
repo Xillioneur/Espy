@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <clipPath id="clip-Cover">
+      <rect width="1280" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Cover" clip-path="url(#clip-Cover)">
+    <rect width="1280" height="800" fill="#fed"/>
+    <g id="Palette" transform="matrix(-0.819, 0.574, -0.574, -0.819, 208.84, -111.91)">
+      <path id="Path_6" data-name="Path 6" d="M41.982,0A41.982,41.982,0,1,1,0,41.982,41.982,41.982,0,0,1,41.982,0Z" transform="translate(-32.156 -691.832)" fill="#546"/>
+      <path id="Path_1" data-name="Path 1" d="M0,0H83.965V83.965H0Z" transform="translate(2.597 -575.76)" fill="#633"/>
+      <path id="Path_3" data-name="Path 3" d="M0,0H83.965V83.965H0Z" transform="translate(105.45 -677.586)" fill="#f65"/>
+      <path id="Path_2" data-name="Path 2" d="M0,0H83.965V83.965H0Z" transform="translate(170.149 -593.97)" fill="#ccb0ac"/>
+      <path id="Path_4" data-name="Path 4" d="M0,0H83.965V83.965H0Z" transform="translate(86.385 -509.792)" fill="#fa3"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="83.965" height="83.965" transform="translate(86.876 -593.592)" fill="#fed"/>
+    </g>
+    <text id="Think_Fast_" data-name="Think Fast!" transform="translate(632 451)" fill="#ccb0ac" font-size="70" font-family="Georgia-Italic, Georgia" font-style="italic"><tspan x="0" y="0">Think Fast!</tspan></text>
+  </g>
+</svg>
